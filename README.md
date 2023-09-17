@@ -1,8 +1,7 @@
 ### Fala, Eduardo por aqui! 👋
 
-- 📚 Estudante
-- 🌱 Aprimorando programação em Python
-- 🌱 Desbravando o mundo do Arduino
+- 📚 Engenharia de Computação
+- 🌱 Desenvolvedor no LIT - IFCE
 - 💬 Sempre curioso
 
 <div style="display: inline_block"><br> 
