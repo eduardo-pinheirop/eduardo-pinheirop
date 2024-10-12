@@ -1,10 +1,13 @@
 ### Fala, Eduardo por aqui! 👋
 
 - 📚 Engenharia de Computação
+- 🌱 Desenvolvedor Web com foco em IoT - Salvus Tecnologia
 - 🌱 Desenvolvedor no LIT - IFCE
 - 💬 Sempre curioso
 
 <div style="display: inline_block"><br> 
+  <img align="center" alt="Eduardo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="Eduardo-C" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />        
   <img align="center" alt="Eduardo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Eduardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Eduardo-Flask" height="45" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
