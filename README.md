@@ -5,7 +5,7 @@
 - 🌱 Desenvolvedor de aplicações embarcadas no LIT - IFCE
 - 💬 Sempre curioso
 
-<div style="display: inline-block"><br> 
+<div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;"><br> 
   <img align="center" alt="Eduardo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="Eduardo-Node" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />        
   <img align="center" alt="Eduardo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
